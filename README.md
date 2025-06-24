@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @deepcreater
+- 👋 Hi, I’m @deepak
 - 👀 I’m interested in c++,Machine Learnign 
 - 🌱 I’m currently learning  Deep learning 
 - 💞️ I’m looking to collaborate on  project  for deep learning 
